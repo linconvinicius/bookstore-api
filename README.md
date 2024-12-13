@@ -4,6 +4,9 @@
 
 Este projeto é uma API RESTful para gerenciar uma livraria, construída com Java, Spring Boot e Maven. A API permite operações CRUD (Create, Read, Update, Delete) em livros, autores e editoras.
 
+![image](https://github.com/user-attachments/assets/6adbfe51-2db6-4068-a926-5a744c7e1e89)
+
+
 ## Tecnologias Utilizadas
 
 - Java
