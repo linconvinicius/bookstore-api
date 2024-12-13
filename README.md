@@ -60,7 +60,7 @@ curl -X DELETE http://localhost:8080/bookstore/books/{id}
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bookstore-api.git
+   git clone https://github.com/linconvinicius/bookstore-api.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
@@ -79,7 +79,3 @@ curl -X DELETE http://localhost:8080/bookstore/books/{id}
 3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
 4. Faça o push para a branch (`git push origin feature/nova-feature`).
 5. Crie um novo Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
